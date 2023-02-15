@@ -47,7 +47,7 @@ dependencies:
   - openssl=1.1.1l
   - pillow=8.3.1
   - pip=21.0.1
-  - python=3.7.11 
+  - python=3.7.11
   - pip:
     - absl-py==0.13.0
     - blessings==1.7
