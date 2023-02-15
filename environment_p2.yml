@@ -1,0 +1,19 @@
+name: videopred
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - pytorch=1.9.0=py3.7_cuda11.1_cudnn8.0.5_0
+  - readline=8.1=h27cfd23_0
+  - setuptools=52.0.0=py37h06a4308_0
+  - six=1.16.0=pyhd3eb1b0_0
+  - sqlite=3.36.0=hc218d9a_0
+  - tk=8.6.10=hbc83047_0
+  - torchaudio=0.9.0=py37
+  - torchvision=0.10.0=py37_cu111
+  - typing_extensions=3.10.0.0=pyh06a4308_0
+  - wheel=0.37.0=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+  - zstd=1.4.9=haebb681_0
