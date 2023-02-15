@@ -9,8 +9,6 @@ coolname==1.1.0
 cycler==0.10.0
 deepspeed==0.5.1
 easydict==1.9
-flow-vis-torch==0.1
-forward-warp-cuda==0.0.0
 google-auth==1.35.0
 google-auth-oauthlib==0.4.6
 gpustat==0.6.0
